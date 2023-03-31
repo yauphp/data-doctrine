@@ -11,10 +11,10 @@
 	],
 	"require" : {
 		"php" : ">=5.6.0",
-		"yauphp/core" : "~1.0",
-		"yauphp/common" : "~1.0",
-		"yauphp/logger" : "~1.0",
-		"yauphp/data" : "~1.0",
+		"yauphp/core" : "~2.0",
+		"yauphp/common" : "~2.0",
+		"yauphp/logger" : "~2.0",
+		"yauphp/data" : "~2.0",
 		"doctrine/common": "~3.2",
 		"doctrine/orm" : "~2.10",
 		"doctrine/annotations" : "~1.13"
